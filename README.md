@@ -1,5 +1,7 @@
 # AED2---Dogo
-TP AED2 - Johnatas Silva e Pedro Santos
+TP AED2
+Johnatas Philipe Rodrigues da Silva
+Pedro Henrique Souza dos Santos
 
 Trabalho Prático 2
 
